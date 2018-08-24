@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>杨迪的博客</title>
+  
+  <subtitle>DiYang&#39;s Blog</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://terryyoung518.github.io/"/>
+  <updated>2018-08-24T11:49:17.975Z</updated>
+  <id>https://terryyoung518.github.io/</id>
+  
+  <author>
+    <name>杨迪</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>留言板</title>
+    <link href="https://terryyoung518.github.io/1970/01/01/message-board/"/>
+    <id>https://terryyoung518.github.io/1970/01/01/message-board/</id>
+    <published>1969-12-31T16:00:00.000Z</published>
+    <updated>2018-08-24T11:49:17.975Z</updated>
+    
+    <content type="html"><![CDATA[<p>这里是专门用于留言的留言板。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这里是专门用于留言的留言板。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
