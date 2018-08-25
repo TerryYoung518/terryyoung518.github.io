@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>杨迪的博客</title>
+  <title>Yang Di&#39;s Blog</title>
   
-  <subtitle>DiYang&#39;s Blog</subtitle>
+  <subtitle>日常学习记录</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://terryyoung518.github.io/"/>
-  <updated>2018-08-24T11:49:17.975Z</updated>
+  <updated>2018-08-25T04:49:15.185Z</updated>
   <id>https://terryyoung518.github.io/</id>
   
   <author>
@@ -21,16 +21,17 @@
     <link href="https://terryyoung518.github.io/1970/01/01/message-board/"/>
     <id>https://terryyoung518.github.io/1970/01/01/message-board/</id>
     <published>1969-12-31T16:00:00.000Z</published>
-    <updated>2018-08-24T11:49:17.975Z</updated>
+    <updated>2018-08-25T04:49:15.185Z</updated>
     
-    <content type="html"><![CDATA[<p>这里是专门用于留言的留言板。</p>]]></content>
+    <content type="html"><![CDATA[<p>这里是专门用于留言的留言板。<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://gratisography.com/thumbnails/gratisography-258-thumbnail-small.jpg" alt="图片名称" title="">                </div>                <div class="image-caption">图片名称</div>            </figure></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;这里是专门用于留言的留言板。&lt;/p&gt;
-
+        &lt;p&gt;这里是专门用于留言的留言板。&lt;br&gt;&lt;figure class=&quot;image-bubble&quot;&gt;
+                &lt;div class=&quot;img-lightbox&quot;&gt;
+                    &lt;div class=&quot;overlay&quot;&gt;&lt;/div
       
     
     </summary>
